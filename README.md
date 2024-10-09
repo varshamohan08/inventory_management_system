@@ -1,5 +1,4 @@
 #### inventory_management_system
-## Inventory Management System
 # Inventory Management System
 
 This repository contains an Inventory Management System built using Django, Django REST Framework, and Redis for caching. It provides user authentication and item management functionalities.
