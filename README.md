@@ -55,7 +55,7 @@ api_endpoints.md
 ### Using Postman Collection
 1. Open Postman.
 2. Click on the "Import" button in the top left corner.
-3. Choose "Raw Text" and paste [postman collection](https://api.postman.com/collections/34745216-bda300d5-43d2-4367-a0f1-0db4366e8f14?access_key=PMAT-01J9Q7JXDH130CMZE16WZQE86E).
+3. Choose "Raw Text" and paste [https://api.postman.com/collections/34745216-bda300d5-43d2-4367-a0f1-0db4366e8f14?access_key=PMAT-01J9Q7JXDH130CMZE16WZQE86E](https://api.postman.com/collections/34745216-bda300d5-43d2-4367-a0f1-0db4366e8f14?access_key=PMAT-01J9Q7JXDH130CMZE16WZQE86E).
 4. Click "Continue", then "Import".
 ## Usage
 - **Base URL:** Set the environment variable base_url to the base URL of your API (e.g., http://localhost:8000).
